@@ -91,9 +91,15 @@ I really wanted ya'll to feel comfortable...
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
-Most SEOs want to strategic, data-driven, and insightful work.
+Most SEOs would rather do strategic, data-driven, and insightful work.
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -106,6 +112,9 @@ Most SEOs want to strategic, data-driven, and insightful work.
 
 So, today, we're going to go through some ways we can improve our mutual happiness!
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -152,7 +161,7 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 
 
-## Automate out the suuuuper boring stuff (that can be automated)
+## Automate out the suuuuper boring stuff (that should be done programmatically)
 
 <br />
 <br />
@@ -235,7 +244,9 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
-
+<br />
+<br />
+<br />
 
 ### 3. 99%* of SEOs don't care what JS framework you use, just make sure bots can render it (we do care about that)
 * if you want to not deal with hassle of prerendered pages, just commit to making it isomorphic/universal JS from the beginning
@@ -289,12 +300,20 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 	
 ### 5. we need a way to update the content on the site without bothering you. 
 * give us some creative space, let our creative wings sour.... 
 * ... maybe near the footer or something
 	
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -367,6 +386,9 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 ### 8. we're probably going to bother you about site speed (no matter how good it is)
 
@@ -375,6 +397,9 @@ So, today, we're going to go through some ways we can improve our mutual happine
 * tell them you refactor your code on a monthly basis
 * find a way to remove any unused JS and CSS in production (invent a product that does this for all sites, become the next lesser-known Bill Gates)
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -414,6 +439,9 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 
 ### 9. breathe with me.... okay... one more.... 301 redirects are the only valid redirect... ah... didn’t that feel good
@@ -428,10 +456,16 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 
-`break; # from crazy loop`
+`break; // from crazy loop`
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -460,8 +494,6 @@ So, today, we're going to go through some ways we can improve our mutual happine
 
 ### 11. we care a lot about duplication
 
-<br />
-<br />
 <br />
 
 ```
@@ -595,7 +627,9 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
-
+<br />
+<br />
+<br />
 
 ### **♥♥♥ Progress:**
 
@@ -639,6 +673,9 @@ So, today, we're going to go through some ways we can improve our mutual happine
 		* tell us if we're being unclear (hold us accountable to being clear)
 		* we will rely on your help with the white-box side of the site
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -753,7 +790,9 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
-
+<br />
+<br />
+<br />
 
 # Now let's get into the panel!
 
