@@ -175,14 +175,14 @@ So, today, we're going to go through some ways we can improve our mutual happine
 
 ### 1. Add these into unit testing:
 
-- [] link tags with canonical attributes (assert values they should be, we'll give a list!)
-- [] meta robots tags (99.99% (repeating of course) should NOT have `noindex`)
-- [] any Schema your site has (assert that it's there and what it should be)
-- [] h1 tag 
-- [] title tags
-- [] meta descriptions
-- [] XML sitemap (assert present and includes top KPI-driving URLs) 
-- [] robots.txt (assert what it should be)
+- [ ] link tags with canonical attributes (assert values they should be, we'll give a list!)
+- [ ] meta robots tags (99.99% (repeating of course) should NOT have `noindex`)
+- [ ] any Schema your site has (assert that it's there and what it should be)
+- [ ] h1 tag 
+- [ ] title tags
+- [ ] meta descriptions
+- [ ] XML sitemap (assert present and includes top KPI-driving URLs) 
+- [ ] robots.txt (assert what it should be)
 
 <br />
 <br />
@@ -623,17 +623,17 @@ So, today, we're going to go through some ways we can improve our mutual happine
 ### 14. if you have a lot of 3rd party writers, we'll want some system (like Yoast) that helps writers in their workflow
 
 * literally just copying from Yoast (for WP plugin) tool...
-	- [x] what is the primary keyword?
-    - [] is primary keyword in the title tag?
-    - [] is meta description added?
-    - [] are images present? (cough... and optimized)
-    - [] are internal links on the page?
-    - [] does keyword density look reasonable for a human being?
-    - [] relevant outbound links present?
-    - [] is the content the recommended content length?
-    - [] are there subheadings? (so we can all skim the content)
-    - [] what is the ease of reading (Flesch)?
-    - [] using active voice?
+    - [x] what is the primary keyword?
+    - [ ] is primary keyword in the title tag?
+    - [ ] is meta description added?
+    - [ ] are images present? (cough... and optimized)
+    - [ ] are internal links on the page?
+    - [ ] does keyword density look reasonable for a human being?
+    - [ ] relevant outbound links present?
+    - [ ] is the content the recommended content length?
+    - [ ] are there subheadings? (so we can all skim the content)
+    - [ ] what is the ease of reading (Flesch)?
+    - [ ] using active voice?
  
 
 <br />
