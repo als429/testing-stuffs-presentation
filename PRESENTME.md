@@ -3,9 +3,15 @@
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 I really wanted ya'll to feel comfortable... 
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -15,9 +21,15 @@ I really wanted ya'll to feel comfortable...
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 *(Hey, everyone has to have a secret talent,* 
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -26,9 +38,15 @@ I really wanted ya'll to feel comfortable...
 
 <br />
 <br />
+<br />
+<br />
+<br />
 
 *`silentTears(lackOfTalent)`)*
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -56,14 +74,23 @@ I really wanted ya'll to feel comfortable...
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 
 *Anyways*, let's get `started()`!
 
 <br />
+<br />
+<br />
+<br />
 
 ## **Question:** How many of you *like* doing SEO work?
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -94,9 +121,15 @@ I really wanted ya'll to feel comfortable...
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 Most SEOs would rather do strategic, data-driven, and insightful work.
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -118,9 +151,15 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 ### Dev happiness + SEO happiness = friendship magic + successful online presence! ♥♥♥
 
+<br />
+<br />
+<br />
 <br />
 <br />
 
@@ -128,6 +167,9 @@ So, today, we're going to go through some ways we can improve our mutual happine
 
 ### ▓▓▓▓▓░░░░░░░░░░ 30% (for showing up today!)
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -159,10 +201,16 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 
 ## Automate out the suuuuper boring stuff (that should be done programmatically)
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -196,12 +244,18 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 ### 2. Automate:
 
-* XML sitemap creation 
-* image compression
+- [ ] XML sitemap creation 
+- [ ] image compression
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -231,10 +285,16 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 
 ## Things we *secretly* don't care about
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -267,10 +327,16 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 
 ## Things we are **definitely** going to ask for
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -306,11 +372,17 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 	
 ### 5. we need a way to update the content on the site without bothering you. 
 * give us some creative space, let our creative wings sour.... 
 * ... maybe near the footer or something
 	
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -340,11 +412,17 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 ### **♥♥♡ Progress:**
 
 ### ▓▓▓▓▓▓▓▓▓▓▓░░░░ 70%
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -372,6 +450,9 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 
 ### 7. if you have access to any clean API data and can do some sort of mad-lib, computer generated text for useful information on pages 
@@ -380,6 +461,9 @@ So, today, we're going to go through some ways we can improve our mutual happine
 * we want each page to have a purpose that is clear in its textual content
 * visuals are becoming more important, buuuut most SEOs still focus a lot on textual content 
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -418,6 +502,9 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 ### **♥♥♡ Progress:**
 
@@ -435,10 +522,16 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 
 ## Things we care a **lot** about and will probably lose our minds over... haha... haha... hahahahahahaa	
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -471,6 +564,9 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 
 `break; // from crazy loop`
@@ -487,10 +583,15 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
-
+<br />
+<br />
+<br />
 
 ### 10. we care a lot about internal linking (think: main nav, footer, internal link) and the anchor text
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -534,6 +635,9 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 
 ### **♥♥♡ Progress:**
@@ -552,10 +656,16 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 
 ## Things we *kind* of care about (and will probably bother you about...)
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -594,11 +704,17 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 
 ### 13. we also want to be on HTTPS (w/ HSTS of course), mostly because google said they use it as a ranking factor, buuut also because it's a more secure format that allows for the encryption of user's *probably private* browsing information
 * other than HTTPS, most of us won't talk to you about XSS, SQL injections, DoS, etc.; we assume you got that (that's developer buddy)
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -651,6 +767,9 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 ### **♥♥♥ Progress:**
 
@@ -668,10 +787,16 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
                
 # Things we want you to know about us, SEOs
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -709,6 +834,9 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 
 ### 2. in the past SEO and SEs used to not like each other (if you've read an IR textbook, you'll probably find a chapter on us). In today’s world, we work together to bother developers, into doing things like:
@@ -724,6 +852,9 @@ So, today, we're going to go through some ways we can improve our mutual happine
 
 ![](old-ir-text.png)
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -780,12 +911,18 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 
 ### 4. we (generally speaking) love learning!
 
 * let's learning together
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -814,9 +951,15 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 # Now let's get into the panel!
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -833,10 +976,16 @@ yay... panelling! (not the house kind, the talking kind! ya know what i mean... 
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 
 ## Introducing... Martin
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -846,15 +995,24 @@ yay... panelling! (not the house kind, the talking kind! ya know what i mean... 
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 ## Introducing... me (Alexis)
 
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 ## Introducing... our very own SEO Beyoncé... 
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -874,6 +1032,9 @@ yay... panelling! (not the house kind, the talking kind! ya know what i mean... 
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 
 ![](seo-beyonce.png)
@@ -885,11 +1046,20 @@ yay... panelling! (not the house kind, the talking kind! ya know what i mean... 
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
-# So, what do you want to know?
+## So, what do you want to know?
 
 ## We're giving free advice here. And our cheapest hourly rate is $200/hour, so use us while we're $0!!!
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
