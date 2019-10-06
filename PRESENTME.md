@@ -16,18 +16,18 @@ I really wanted ya'll to feel comfortable...
 <br />
 <br />
 
-Hey, everyone *has* to have a secret talent, 
+*(Hey, everyone has to have a secret talent,* 
 
 <br />
 <br />
 <br />
 
-mine just happens to be markdown... 
+*mine just happens to be markdown...*
 
 <br />
 <br />
 
-`silentTears(lackOfTalent)`
+*`silentTears(lackOfTalent)`)*
 
 <br />
 <br />
@@ -52,13 +52,22 @@ mine just happens to be markdown...
 <br />
 <br />
 
-**Question:** How many of you *like* doing SEO work?
+## **Question:** How many of you *like* doing SEO work?
 
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
-**A statement:** We know that 70%* of the work we ask devs to do can cause trauma, but we don't want to. 
+**A response:** We know that 70%* of the work we ask devs to do can cause trauma, but we don't want it to. 
 
 <br />
 <br />
@@ -69,6 +78,9 @@ Most SEOs want to strategic, data-driven, and insightful work.
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 So, today, we're going to go through some ways we can improve both of our happiness.
 
@@ -76,16 +88,19 @@ So, today, we're going to go through some ways we can improve both of our happin
 <br />
 <br />
 
-Dev happiness + SEO happiness = friendship magic + successful online presence!
+### Dev happiness + SEO happiness = friendship magic + successful online presence! ♥♥♥
 
 <br />
 <br />
+<br />
 
+### **♥♡♡ Progress:**
 
-**♥♡♡ Progress:**
+### ▓▓▓▓▓░░░░░░░░░░ 30% (for showing up today!)
 
-▓▓▓▓▓░░░░░░░░░░ 30% (for showing up today!)
-
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -99,10 +114,19 @@ Dev happiness + SEO happiness = friendship magic + successful online presence!
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 
 ## Automate the boring stuff
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -125,7 +149,7 @@ Dev happiness + SEO happiness = friendship magic + successful online presence!
 <br />
 <br />
 
-### 2. automate:
+### 2. Automate:
 
 * XML sitemap creation 
 * image compression
@@ -134,10 +158,13 @@ Dev happiness + SEO happiness = friendship magic + successful online presence!
 <br />
 <br />
 
-**♥♥♡ Progress:**
+### **♥♥♡ Progress:**
 
-▓▓▓▓▓▓▓▓▓░░░░░░ 60%
+### ▓▓▓▓▓▓▓▓▓░░░░░░ 60%
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -150,13 +177,16 @@ Dev happiness + SEO happiness = friendship magic + successful online presence!
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 ### 3. 99%* of SEOs don't care what JS framework you use, just make sure bots can render it (we do care about that)
 * if you want to not deal with hassle of prerendered pages, just commit to making it isomorphic/universal JS from the beginning
 * biggest challenge with prerendered - if the prerendered versions break... it's hard to catch
 * great chart by @eywu:
 
-![](eywu-js.jpeg)
+![](eywu-js.jpg)
 
 <br />
 <br />
@@ -167,6 +197,9 @@ Dev happiness + SEO happiness = friendship magic + successful online presence!
 
 ## Things we are **definitely** going to ask for
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -183,10 +216,12 @@ Dev happiness + SEO happiness = friendship magic + successful online presence!
 <br />
 	
 ### 5. we need a way to update the content on the site without bothering you. 
-
-	* give us some creative space, let our creative wings sour.... 
-	* ... maybe near the footer or something
+* give us some creative space, let our creative wings sour.... 
+* ... maybe near the footer or something
 	
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -199,9 +234,9 @@ Dev happiness + SEO happiness = friendship magic + successful online presence!
 <br />
 <br />
 
-**♥♥♡ Progress:**
+### **♥♥♡ Progress:**
 
-▓▓▓▓▓▓▓▓▓▓▓░░░░ 70%
+### ▓▓▓▓▓▓▓▓▓▓▓░░░░ 70%
 
 <br />
 <br />
@@ -215,6 +250,10 @@ Dev happiness + SEO happiness = friendship magic + successful online presence!
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+
 
 ### 7. if you have access to any clean API data and can do some sort of mad-lib, computer generated text for useful information on pages 
 
@@ -237,9 +276,9 @@ Dev happiness + SEO happiness = friendship magic + successful online presence!
 <br />
 <br />
 
-**♥♥♡ Progress:**
+### **♥♥♡ Progress:**
 
-▓▓▓▓▓▓▓▓▓▓▓▓░░░ 80%
+### ▓▓▓▓▓▓▓▓▓▓▓▓░░░ 80%
 
 <br />
 <br />
@@ -250,6 +289,9 @@ Dev happiness + SEO happiness = friendship magic + successful online presence!
 
 ## Things we care a **lot** about and will probably lose our minds over... haha... haha... hahahahahahaa	
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -277,13 +319,13 @@ Dev happiness + SEO happiness = friendship magic + successful online presence!
 
 ```
 # resolving duplicate content
- if (you can demolish page){
+ if (you can demolish page) {
 	301 redirect page;
 	}
- else if (you can't demolish page){
+ else if (you can't demolish page) {
 	use canonical tags;
 	}	
- else{
+ else {
 	get a new CMS;
 	}
 ```
@@ -296,9 +338,9 @@ Dev happiness + SEO happiness = friendship magic + successful online presence!
 <br />
 <br />
 
-**♥♥♡ Progress:**
+### **♥♥♡ Progress:**
 
-▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 90%
+### ▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 90%
 
 <br />
 <br />
@@ -312,6 +354,10 @@ Dev happiness + SEO happiness = friendship magic + successful online presence!
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+
 
 ### 12. we care a little about conversion optimization (b/c we can't stand getting traffic to the site and then it not converting!!)
 * so, you'll probably hear some basic stuff from us like -> make CTA buttons on the top half of the page, make them a color that stands out...ya know, the basics
@@ -348,9 +394,9 @@ Dev happiness + SEO happiness = friendship magic + successful online presence!
 <br />
 <br />
 
-**♥♥♥ Progress:**
+### **♥♥♥ Progress:**
 
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ 95%
+### ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ 95%
 
 <br />
 <br />
@@ -364,6 +410,10 @@ Dev happiness + SEO happiness = friendship magic + successful online presence!
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+
 
 ### 1. we come from a ton of different backgrounds (business, development, music, writing, etc...)
 
