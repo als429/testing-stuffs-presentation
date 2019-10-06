@@ -369,6 +369,9 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 
 ### 7. if you have access to any clean API data and can do some sort of mad-lib, computer generated text for useful information on pages 
@@ -389,6 +392,9 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 ### 8. we're probably going to bother you about site speed (no matter how good it is)
 
@@ -397,6 +403,9 @@ So, today, we're going to go through some ways we can improve our mutual happine
 * tell them you refactor your code on a monthly basis
 * find a way to remove any unused JS and CSS in production (invent a product that does this for all sites, become the next lesser-known Bill Gates)
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -430,6 +439,9 @@ So, today, we're going to go through some ways we can improve our mutual happine
 
 ## Things we care a **lot** about and will probably lose our minds over... haha... haha... hahahahahahaa	
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -556,6 +568,9 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 
 ### 12. we care a little about conversion optimization (b/c we can't stand getting traffic to the site and then it not converting!!)
@@ -576,11 +591,17 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 
 ### 13. we also want to be on HTTPS (w/ HSTS of course), mostly because google said they use it as a ranking factor, buuut also because it's a more secure format that allows for the encryption of user's *probably private* browsing information
 * other than HTTPS, most of us won't talk to you about XSS, SQL injections, DoS, etc.; we assume you got that (that's developer buddy)
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
