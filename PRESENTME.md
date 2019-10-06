@@ -2,7 +2,7 @@
 
 <br />
 <br />
-<br/>
+<br />
 
 I really wanted ya'll to feel comfortable... 
 
@@ -35,9 +35,21 @@ I really wanted ya'll to feel comfortable...
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ...`awkoTacoPause()`...
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -49,11 +61,15 @@ I really wanted ya'll to feel comfortable...
 *Anyways*, let's get `started()`!
 
 <br />
-<br />
-<br />
 
 ## **Question:** How many of you *like* doing SEO work?
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -72,6 +88,9 @@ I really wanted ya'll to feel comfortable...
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 Most SEOs want to strategic, data-driven, and insightful work.
 
@@ -81,8 +100,11 @@ Most SEOs want to strategic, data-driven, and insightful work.
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
-So, today, we're going to go through some ways we can improve both of our happiness.
+So, today, we're going to go through some ways we can improve our mutual happiness!
 
 <br />
 <br />
@@ -107,10 +129,19 @@ So, today, we're going to go through some ways we can improve both of our happin
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 # Ways to totally not be bothered by your SEO friends... 
 ## and maintain a healthy relationship!
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -133,15 +164,18 @@ So, today, we're going to go through some ways we can improve both of our happin
 
 ### 1. Add these into unit testing:
 
-* link tags with canonical attributes (assert values they should be, we'll give a list!)
-* meta robots tags (99.99% (repeating of course) should NOT have `noindex`)
-* any Schema your site has (assert that it's there and what it should be)
-* h1 tag 
-* title tags
-* meta descriptions
-* XML sitemap (assert present and includes top KPI-driving URLs) 
-* robots.txt (assert what it should be)
+- [] link tags with canonical attributes (assert values they should be, we'll give a list!)
+- [] meta robots tags (99.99% (repeating of course) should NOT have `noindex`)
+- [] any Schema your site has (assert that it's there and what it should be)
+- [] h1 tag 
+- [] title tags
+- [] meta descriptions
+- [] XML sitemap (assert present and includes top KPI-driving URLs) 
+- [] robots.txt (assert what it should be)
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -171,6 +205,13 @@ So, today, we're going to go through some ways we can improve both of our happin
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 
 ## Things we *secretly* don't care about
 
@@ -180,6 +221,10 @@ So, today, we're going to go through some ways we can improve both of our happin
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+
 
 ### 3. 99%* of SEOs don't care what JS framework you use, just make sure bots can render it (we do care about that)
 * if you want to not deal with hassle of prerendered pages, just commit to making it isomorphic/universal JS from the beginning
@@ -194,9 +239,16 @@ So, today, we're going to go through some ways we can improve both of our happin
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+
 
 ## Things we are **definitely** going to ask for
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -214,11 +266,18 @@ So, today, we're going to go through some ways we can improve both of our happin
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+
 	
 ### 5. we need a way to update the content on the site without bothering you. 
 * give us some creative space, let our creative wings sour.... 
 * ... maybe near the footer or something
 	
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -233,6 +292,9 @@ So, today, we're going to go through some ways we can improve both of our happin
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 ### **♥♥♡ Progress:**
 
@@ -244,9 +306,18 @@ So, today, we're going to go through some ways we can improve both of our happin
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ## Things most SEOs would appreciate
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -264,6 +335,10 @@ So, today, we're going to go through some ways we can improve both of our happin
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+
 
 ### 8. we're probably going to bother you about site speed (no matter how good it is)
 
@@ -272,6 +347,9 @@ So, today, we're going to go through some ways we can improve both of our happin
 * tell them you refactor your code on a monthly basis
 * find a way to remove any unused JS and CSS in production (invent a product that does this for all sites, become the next lesser-known Bill Gates)
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -286,6 +364,13 @@ So, today, we're going to go through some ways we can improve both of our happin
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 
 ## Things we care a **lot** about and will probably lose our minds over... haha... haha... hahahahahahaa	
 
@@ -295,6 +380,10 @@ So, today, we're going to go through some ways we can improve both of our happin
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+
 
 ### 9. breathe with me.... okay... one more.... 301 redirects are the only valid redirect... ah... didn’t that feel good
 * it did... (thank you past self for your encouraging words)
@@ -302,18 +391,33 @@ So, today, we're going to go through some ways we can improve both of our happin
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+
 
 `break; # from crazy loop`
 
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+
 
 ### 10. we care a lot about internal linking (think: main nav, footer, internal link) and the anchor text
 
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 
 ### 11. we care a lot about duplication
 
@@ -337,6 +441,10 @@ So, today, we're going to go through some ways we can improve both of our happin
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+
 
 ### **♥♥♡ Progress:**
 
@@ -348,6 +456,13 @@ So, today, we're going to go through some ways we can improve both of our happin
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 
 ## Things we *kind* of care about (and will probably bother you about...)
 
@@ -357,6 +472,10 @@ So, today, we're going to go through some ways we can improve both of our happin
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+
 
 
 ### 12. we care a little about conversion optimization (b/c we can't stand getting traffic to the site and then it not converting!!)
@@ -365,6 +484,16 @@ So, today, we're going to go through some ways we can improve both of our happin
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 
 ### 13. we also want to be on HTTPS (w/ HSTS of course), mostly because google said they use it as a ranking factor, buuut also because it's a more secure format that allows for the encryption of user's *probably private* browsing information
 * other than HTTPS, most of us won't talk to you about XSS, SQL injections, DoS, etc.; we assume you got that (that's developer buddy)
@@ -372,6 +501,16 @@ So, today, we're going to go through some ways we can improve both of our happin
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 
 
 ### 14. if you have a lot of 3rd party writers, we'll want some system (like Yoast) that helps writers in their workflow
@@ -393,6 +532,13 @@ So, today, we're going to go through some ways we can improve both of our happin
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 
 ### **♥♥♥ Progress:**
 
@@ -404,9 +550,22 @@ So, today, we're going to go through some ways we can improve both of our happin
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
                
 # Things we want you to know about us, SEOs
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -426,6 +585,16 @@ So, today, we're going to go through some ways we can improve both of our happin
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 
 ### 2. in the past SEO and SEs used to not like each other (if you've read an IR textbook, you'll probably find a chapter on us). In today’s world, we work together to bother developers, into doing things like:
 
@@ -440,6 +609,18 @@ So, today, we're going to go through some ways we can improve both of our happin
 
 ![](old-ir-text.png)
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -475,6 +656,16 @@ So, today, we're going to go through some ways we can improve both of our happin
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 
 ### 4. we (generally speaking) love learning!
 
@@ -483,6 +674,13 @@ So, today, we're going to go through some ways we can improve both of our happin
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 
 ### 5. ultimately we want to:
 
@@ -505,12 +703,20 @@ So, today, we're going to go through some ways we can improve both of our happin
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+
 
 yay... panelling! (not the house kind, the talking kind! ya know what i mean... haha)
 
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+
 
 ## Introducing... Martin
 
@@ -535,6 +741,10 @@ yay... panelling! (not the house kind, the talking kind! ya know what i mean... 
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+
 
 ### Paul
 
@@ -544,6 +754,10 @@ yay... panelling! (not the house kind, the talking kind! ya know what i mean... 
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+
 
 ![](seo-beyonce.png)
 
