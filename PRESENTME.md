@@ -114,7 +114,6 @@ So, today, we're going to go through some ways we can improve our mutual happine
 
 <br />
 <br />
-<br />
 
 ### **♥♡♡ Progress:**
 
@@ -153,8 +152,11 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 
 
-## Automate the boring stuff
+## Automate out the suuuuper boring stuff (that can be automated)
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -182,12 +184,21 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 ### 2. Automate:
 
 * XML sitemap creation 
 * image compression
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -242,10 +253,16 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 
 ## Things we are **definitely** going to ask for
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -269,6 +286,9 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 	
 ### 5. we need a way to update the content on the site without bothering you. 
@@ -284,11 +304,17 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 	
 ### 6. we'll probably want a blog or thought-leadership-influencer-section of the site, just give us our creative
 
 * it's probably easier to just add a site section with WP	
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -338,7 +364,9 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
-
+<br />
+<br />
+<br />
 
 ### 8. we're probably going to bother you about site speed (no matter how good it is)
 
@@ -347,6 +375,9 @@ So, today, we're going to go through some ways we can improve our mutual happine
 * tell them you refactor your code on a monthly basis
 * find a way to remove any unused JS and CSS in production (invent a product that does this for all sites, become the next lesser-known Bill Gates)
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -394,10 +425,16 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 
 `break; # from crazy loop`
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -417,9 +454,15 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
-
+<br />
+<br />
+<br />
 
 ### 11. we care a lot about duplication
+
+<br />
+<br />
+<br />
 
 ```
 # resolving duplicate content
@@ -438,6 +481,9 @@ So, today, we're going to go through some ways we can improve our mutual happine
 	* think about how the robots feel... for once, already
 	* buuut seriously, just a URL, title tag, and heading tag are not enough to rank as the *best* result on the **entire** web
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -475,7 +521,9 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
-
+<br />
+<br />
+<br />
 
 
 ### 12. we care a little about conversion optimization (b/c we can't stand getting traffic to the site and then it not converting!!)
@@ -493,11 +541,17 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 
 ### 13. we also want to be on HTTPS (w/ HSTS of course), mostly because google said they use it as a ranking factor, buuut also because it's a more secure format that allows for the encryption of user's *probably private* browsing information
 * other than HTTPS, most of us won't talk to you about XSS, SQL injections, DoS, etc.; we assume you got that (that's developer buddy)
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -529,6 +583,9 @@ So, today, we're going to go through some ways we can improve our mutual happine
     - [] using active voice?
  
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
