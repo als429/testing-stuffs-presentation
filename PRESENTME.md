@@ -354,7 +354,7 @@ So, today, we're going to go through some ways we can improve our mutual happine
 
 * if you have templates that are constant, just roll in microdata (wrap components)
 * otherwise, just make a section for JSON-LD (it's a tiny baby `<script>`), so we can throw a baby script in there
-	* **side note:** *I* would validate in the structured data testing tool whatever your team sends you (buuuut that's just because I have trust issues...)
+	* **side note:** I would probably validate in <a href="https://search.google.com/structured-data/testing-tool/u/0/">Google's Structured Data Testing Tool</a> whatever your team sends you (buuuut that's just because I have trust issues...)
     * **side note two:** if you use react think about rolling schema into a component (tip from my man @eywu)
 
 <br />
@@ -622,7 +622,7 @@ So, today, we're going to go through some ways we can improve our mutual happine
 	}
 ```
 
-* side note: there could also be "duplicate content" generated from sites that have "thin" textual content
+* **side note:** there could also be "duplicate content" generated from sites that have "thin" textual content
 	* think about how the robots feel... for once, already
 	* buuut seriously, just a URL, title tag, and heading tag are not enough to rank as the *best* result on the **entire** web
 
