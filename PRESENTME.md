@@ -851,6 +851,7 @@ So, today, we're going to go through some ways we can improve our mutual happine
 **Chapter from university IR textbook:**
 
 ![](old-ir-text.png)
+*Source: <a href="https://nlp.stanford.edu/IR-book/pdf/19web.pdf">Christopher D. Manning, Prabhakar Raghavan and Hinrich Schütze, Introduction to Information Retrieval, Cambridge University Press. 2008.</a>*
 
 <br />
 <br />
