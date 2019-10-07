@@ -311,7 +311,7 @@ So, today, we're going to go through some ways we can improve our mutual happine
 ### 3. 99%* of SEOs don't care what JS framework you use, just make sure bots can render it (we do care about that)
 * if you want to not deal with hassle of prerendered pages, just commit to making it isomorphic/universal JS from the beginning
 * biggest challenge with prerendered - if the prerendered versions break... it's hard to catch
-* great chart by @eywu:
+* great chart by <a href="https://twitter.com/eywu/status/1177272176099110912">@eywu</a>:
 
 ![](eywu-js.jpg)
 
