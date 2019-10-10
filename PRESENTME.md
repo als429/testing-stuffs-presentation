@@ -1,5 +1,7 @@
-<div style="font-size:xx-large;">
-	
+<br />
+<br />
+<br />
+
 # Hello ~~World~~ Google Dev Meetup
 
 <br />
@@ -1084,4 +1086,3 @@ yay... panelling! (not the house kind, the talking kind! ya know what i mean... 
 
 # Sources
 **a semi-official percentage (may or may not reflect real life)*
-</div>
