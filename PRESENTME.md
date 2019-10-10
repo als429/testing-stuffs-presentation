@@ -2,7 +2,7 @@
 <br />
 <br />
 
-# Hello ~~World~~ Google Dev Meetup
+# Hello ~~World~~ Google Dev Meetup :wave:
 
 <br />
 <br />
@@ -20,7 +20,7 @@ I really wanted ya'll to feel comfortable...
 <br />
 <br />
 
-... so, I'm presenting this from GitHub as a PRESENTME.md
+... so, I'm presenting this from GitHub as a PRESENTME.md :point_down:
 
 <br />
 <br />
@@ -46,7 +46,9 @@ I really wanted ya'll to feel comfortable...
 <br />
 <br />
 
-*`silentTears(lackOfTalent)`)*
+*`silentTears(lackOfTalent)`)* 
+
+# :nerd_face: ಥ_ಥ
 
 <br />
 <br />
@@ -64,7 +66,7 @@ I really wanted ya'll to feel comfortable...
 <br />
 <br />
 
-...`awkoTacoPause()`...
+...`awkoTacoPause()`... :taco:
 
 <br />
 <br />
@@ -83,7 +85,7 @@ I really wanted ya'll to feel comfortable...
 <br />
 
 
-*Anyways*, let's get `started()`!
+*Anyways*, let's get `started()`! :arrow_forward:
 
 <br />
 <br />
@@ -102,6 +104,9 @@ I really wanted ya'll to feel comfortable...
 <br />
 <br />
 <br />
+
+# ఠ_ఠ 
+
 <br />
 <br />
 <br />
@@ -138,16 +143,8 @@ Most SEOs would rather do strategic, data-driven, and insightful work.
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
-So, today, we're going to go through some ways we can improve our mutual happiness!
+# :woman_technologist:
 
 <br />
 <br />
@@ -157,9 +154,25 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+
+So, today, we're going to go through some ways we can improve our mutual happiness! 
+
+<br />
 <br />
 
-### Dev happiness + SEO happiness = friendship magic + successful online presence! ♥♥♥
+# :grinning:
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+### Dev happiness + SEO happiness = friendship magic + successful online presence! ♥♥♥ :unicorn:
 
 <br />
 <br />
@@ -176,6 +189,9 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+
+# :love_letter:
+
 <br />
 <br />
 <br />
@@ -216,6 +232,9 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+
+# :robot:
+
 <br />
 <br />
 <br />
@@ -294,7 +313,7 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 
 
-## Things we *secretly* don't care about
+## Things we *secretly* don't care about :speak_no_evil:
 
 <br />
 <br />
@@ -368,6 +387,18 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+
+**We want our unstructured textual data to be clearly annotated for a machine:**
+<br/>
+
+# :large_blue_diamond: :large_orange_diamond: :white_circle:  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :black_large_square: :black_large_square: :black_large_square:
+
+# :small_red_triangle: :black_medium_square: :large_blue_circle:	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :black_large_square: :black_large_square: :black_large_square:
+
+# :red_circle: :small_red_triangle_down: :large_orange_diamond:	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	:black_large_square: :black_large_square: :black_large_square:
+
+<br/>
+
 <br />
 <br />
 <br />
@@ -389,6 +420,7 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+### :woman_artist:
 <br />
 <br />
 <br />
@@ -484,7 +516,7 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 
-### 8. we're probably going to bother you about site speed (no matter how good it is)
+### 8. we're probably going to bother you about site speed (no matter how good it is) :bullettrain_side:
 
 * look at Google's lighthouse and the page speed insight tool and you'll get 80%* of what most SEOs will tell you
 * use your SEO friend to start a war to remove tracking pixels from the site, let them fight for you
@@ -531,7 +563,7 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 
 
-## Things we care a **lot** about and will probably lose our minds over... haha... haha... hahahahahahaa	
+## Things we care a **lot** about and will probably lose our minds over... haha... haha... hahahahahahaa ⊙_ʘ 	
 
 <br />
 <br />
@@ -553,7 +585,7 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 
 
-### 9. breathe with me.... okay... one more.... 301 redirects are the only valid redirect... ah... didn’t that feel good
+### 9. breathe with me.... okay... one more.... 301 redirects are the only valid redirect... ah... didn’t that feel good :relaxed:
 * it did... (thank you past self for your encouraging words)
 
 <br />
@@ -609,7 +641,7 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 
-### 11. we care a lot about duplication
+### 11. we care a lot about duplication duplication duplication
 
 <br />
 
@@ -713,7 +745,7 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 
 
-### 13. we also want to be on HTTPS (w/ HSTS of course), mostly because google said they use it as a ranking factor, buuut also because it's a more secure format that allows for the encryption of user's *probably private* browsing information
+### 13. we also want to be on HTTPS (w/ HSTS of course), mostly because google said they use it as a ranking factor, buuut also because it's a more secure format that allows for the encryption of user's *probably private* browsing information :closed_lock_with_key:
 * other than HTTPS, most of us won't talk to you about XSS, SQL injections, DoS, etc.; we assume you got that (that's developer buddy)
 
 <br />
@@ -963,7 +995,7 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 
-# Now let's get into the panel!
+# Now let's get into the panel! :man_technologist: :woman_technologist: ヘ(◕。◕ヘ) 
 
 <br />
 <br />
@@ -989,7 +1021,7 @@ yay... panelling! (not the house kind, the talking kind! ya know what i mean... 
 <br />
 
 
-## Introducing... Martin
+## Introducing... Martin :man_technologist:
 
 <br />
 <br />
@@ -998,7 +1030,7 @@ yay... panelling! (not the house kind, the talking kind! ya know what i mean... 
 <br />
 <br />
 
-## Introducing... Jamie
+## Introducing... Jamie :woman_technologist:
 
 <br />
 <br />
@@ -1007,7 +1039,7 @@ yay... panelling! (not the house kind, the talking kind! ya know what i mean... 
 <br />
 <br />
 
-## Introducing... me (Alexis)
+## Introducing... me (Alexis) ヘ(◕。◕ヘ) 
 
 <br />
 <br />
