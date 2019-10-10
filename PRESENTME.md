@@ -42,13 +42,16 @@ I really wanted ya'll to feel comfortable...
 
 <br />
 <br />
+
+### :nerd_face: 
+
 <br />
 <br />
 <br />
 
 *`silentTears(lackOfTalent)`)* 
 
-# :nerd_face: ಥ_ಥ
+### ಥ_ಥ
 
 <br />
 <br />
@@ -105,7 +108,7 @@ I really wanted ya'll to feel comfortable...
 <br />
 <br />
 
-# ఠ_ఠ 
+### ఠ_ఠ 
 
 <br />
 <br />
@@ -160,7 +163,7 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 
-# :grinning:
+### :grinning:
 
 <br />
 <br />
@@ -190,7 +193,7 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 
-# :love_letter:
+### :love_letter:
 
 <br />
 <br />
@@ -233,7 +236,7 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 
-# :robot:
+### :robot:
 
 <br />
 <br />
