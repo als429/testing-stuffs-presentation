@@ -416,7 +416,9 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
-# :woman_artist:
+
+:woman_artist:
+
 <br />
 <br />
 <br />
