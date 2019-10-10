@@ -51,15 +51,16 @@ I really wanted ya'll to feel comfortable...
 
 *`silentTears(lackOfTalent)`)* 
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 ### ಥ_ಥ
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 <br />
 <br />
 <br />
@@ -137,17 +138,7 @@ I really wanted ya'll to feel comfortable...
 <br />
 <br />
 
-Most SEOs would rather do strategic, data-driven, and insightful work.
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-# :woman_technologist:
+Most SEOs would rather do strategic, data-driven, and insightful work. :woman_technologist:
 
 <br />
 <br />
@@ -157,14 +148,19 @@ Most SEOs would rather do strategic, data-driven, and insightful work.
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
-So, today, we're going to go through some ways we can improve our mutual happiness! 
+So, today, we're going to go through some ways we can improve our mutual happiness! :grinning:
+
 
 <br />
 <br />
-
-### :grinning:
-
 <br />
 <br />
 <br />
@@ -193,7 +189,7 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 
-### :love_letter:
+# :love_letter:
 
 <br />
 <br />
@@ -229,15 +225,12 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 
 
-## Automate out the suuuuper boring stuff (that should be done programmatically)
+## Automate out the suuuuper boring stuff (that should be done programmatically) :robot:
 
 <br />
 <br />
 <br />
 <br />
-
-### :robot:
-
 <br />
 <br />
 <br />
