@@ -387,11 +387,11 @@ So, today, we're going to go through some ways we can improve our mutual happine
 **We want our unstructured textual data to be clearly annotated for a machine:**
 <br/>
 
-# :large_blue_diamond: :large_orange_diamond: :white_circle:  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :black_large_square: :black_large_square: :black_large_square:
+# :large_blue_diamond: :large_orange_diamond: :white_circle: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :black_large_square: :black_large_square: :black_large_square:
 
-# :small_red_triangle: :black_medium_square: :large_blue_circle:	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :black_large_square: :black_large_square: :black_large_square:
+# :small_red_triangle: :black_medium_square: :large_blue_circle: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :black_large_square: :black_large_square: :black_large_square:
 
-# :red_circle: :small_red_triangle_down: :large_orange_diamond:	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;	:black_large_square: :black_large_square: :black_large_square:
+# :red_circle: :small_red_triangle_down: :large_orange_diamond: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;	:black_large_square: :black_large_square: :black_large_square:
 
 <br/>
 
