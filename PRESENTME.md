@@ -250,6 +250,7 @@ So, today, we're going to go through some ways we can improve our mutual happine
 - [ ] meta descriptions
 - [ ] XML sitemap (assert present and includes top KPI-driving URLs) 
 - [ ] robots.txt (assert what it should be)
+- [ ] (if you prerender or give bots SSR version) content is appearing
 
 <br />
 <br />
@@ -277,6 +278,10 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+
+**Neither Dev nor SEOs are robots**
+![Not a robot]('logisim-not-a-robot.png')
+
 <br />
 <br />
 <br />
@@ -327,9 +332,9 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 
-### 3. 99%* of SEOs don't care what JS framework you use, just make sure bots can render it (we do care about that)
-* if you want to not deal with hassle of prerendered pages, just commit to making it isomorphic/universal JS from the beginning
-* biggest challenge with prerendered - if the prerendered versions break... it's hard to catch
+### 3. 99%* of SEOs don't care what JS framework you use, just make sure bots can render it (we do care about that) (and mayyyybe weight of the framework...)
+* if you want to not deal with hassle of prerendered pages, just commit to making it isomorphic/universal/SSR JS from the beginning
+* biggest challenge with bot-versions - if the bot-versions break... it *can* be hard to catch (so make sure that checks are automated)
 * great chart by <a href="https://twitter.com/eywu/status/1177272176099110912">@eywu</a>:
 
 ![](eywu-js.jpg)
@@ -373,8 +378,8 @@ So, today, we're going to go through some ways we can improve our mutual happine
 
 * if you have templates that are constant, just roll in microdata (wrap components)
 * otherwise, just make a section for JSON-LD (it's a tiny baby `<script>`), so we can throw a baby script in there
-	* **side note:** I would probably validate in <a href="https://search.google.com/structured-data/testing-tool/u/0/">Google's Structured Data Testing Tool</a> whatever your team sends you (buuuut that's just because I have trust issues...)
-    * **side note two:** if you use react think about rolling schema into a component (tip from my man @eywu)
+	* **side note:** I would probably validate in <a href="https://search.google.com/structured-data/testing-tool/u/0/">Google's Structured Data Testing Tool</a> whatever your team sends you (buuuut that's just because I have trust issues...aaaaand security)
+    * **side note two:** if you use React think about rolling schema into a component (tip from my man @eywu)
 
 <br />
 <br />
@@ -410,7 +415,7 @@ So, today, we're going to go through some ways we can improve our mutual happine
 ### 5. we need a way to update the content on the site without bothering you. 
 * give us some creative space, let our creative wings sour.... 
 * ... maybe near the footer or something
-	
+* especially on product category pages	
 <br />
 <br />
 <br />
@@ -516,9 +521,9 @@ So, today, we're going to go through some ways we can improve our mutual happine
 
 ### 8. we're probably going to bother you about site speed (no matter how good it is) :bullettrain_side:
 
-* look at Google's lighthouse and the page speed insight tool and you'll get 80%* of what most SEOs will tell you
+* look at Google's lighthouse and the <a href="https://developers.google.com/speed/pagespeed/insights/">page speed insight tool</a> and you'll get 80%* of what most SEOs will tell you
 * use your SEO friend to start a war to remove tracking pixels from the site, let them fight for you
-* tell them you refactor your code on a monthly basis
+* tell your SEO you refactor your code on a monthly basis (and review legacy code for potential technical debt...)
 * find a way to remove any unused JS and CSS in production (invent a product that does this for all sites, become the next lesser-known Bill Gates)
 
 <br />
@@ -583,8 +588,9 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 
 
-### 9. breathe with me.... okay... one more.... 301 redirects are the only valid redirect... ah... didn’t that feel good :relaxed:
+### 9. breathe with me.... okay... one more.... 301 redirects are the only valid redirect to permanently move a URL... ah... didn’t that feel good :relaxed:
 * it did... (thank you past self for your encouraging words)
+* use 302s for testing and temporary moves
 
 <br />
 <br />
@@ -623,6 +629,8 @@ So, today, we're going to go through some ways we can improve our mutual happine
 
 ### 10. we care a lot about internal linking (think: main nav, footer, internal link) and the anchor text
 
+* so, we're definitely going to talk about it
+
 <br />
 <br />
 <br />
@@ -652,13 +660,13 @@ So, today, we're going to go through some ways we can improve our mutual happine
 	use canonical tags;
 	}	
  else {
-	get a new CMS;
+	get a new CMS; //kidding... but only kind of kidding
 	}
 ```
 
 * **side note:** there could also be "duplicate content" generated from sites that have "thin" textual content
 	* think about how the robots feel... for once, already
-	* buuut seriously, just a URL, title tag, and heading tag are not enough to rank as the *best* result on the **entire** web
+	* buuut seriously, just a URL, title tag, and heading tag are not enough to rank as the **best** result on the **entire** web
 
 <br />
 <br />
@@ -744,7 +752,7 @@ So, today, we're going to go through some ways we can improve our mutual happine
 
 
 ### 13. we also want to be on HTTPS (w/ HSTS of course), mostly because google said they use it as a ranking factor, buuut also because it's a more secure format that allows for the encryption of user's *probably private* browsing information :closed_lock_with_key:
-* other than HTTPS, most of us won't talk to you about XSS, SQL injections, DoS, etc.; we assume you got that (that's developer buddy)
+* other than HTTPS, most of us won't talk to you about XSS, SQL injections, DoS, etc.; we assume you got that (thanks developer buddy)
 
 <br />
 <br />
@@ -780,7 +788,7 @@ So, today, we're going to go through some ways we can improve our mutual happine
     - [ ] are internal links on the page?
     - [ ] does keyword density look reasonable for a human being?
     - [ ] relevant outbound links present?
-    - [ ] is the content the recommended content length?
+    - [ ] is content the optimal content length?
     - [ ] are there subheadings? (so we can all skim the content)
     - [ ] what is the ease of reading (Flesch)?
     - [ ] using active voice?
@@ -850,7 +858,7 @@ So, today, we're going to go through some ways we can improve our mutual happine
 * this means we *could potentially* be really hard to communicate w/, since you don't know what you're getting
 * we probably know a lot about completely random things from black-box testing the crud out of the website, 
 	* which may make our requirements spotty
-		* tell us if we're being unclear (hold us accountable to being clear)
+		* tell us if we're being unclear (hold us accountable to clarity)
 		* we will rely on your help with the white-box side of the site
 
 <br />
@@ -879,8 +887,8 @@ So, today, we're going to go through some ways we can improve our mutual happine
 * going secure
 * implementing structured data (mostly semantic HTML and Schema.org)
 * making content renderable and accessible to bots
-* asking for the sites log files to find out whether or not googlebot is crawling appropriate
 * some accessibility requests (ARIA, heading tags, alt-text, and such)
+* (asking for the sites log files to find out whether or not googlebot is crawling appropriate)
 
 **Chapter from university IR textbook:**
 
@@ -899,6 +907,8 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+`pause(); //pause neverending struggle`
+
 <br />
 <br />
 <br />
@@ -912,6 +922,7 @@ So, today, we're going to go through some ways we can improve our mutual happine
 ### 3. most things we'll have to work on together relate to one of these things:
 
 * link tags with canonical attributes
+	* maybe link tags with hreflang (for international)
 * meta robots tags
 * schema.org
 * semantic HTML
@@ -919,6 +930,7 @@ So, today, we're going to go through some ways we can improve our mutual happine
 * title tags
 * meta descriptions
 * XML sitemaps
+	* more likely where hreflang stuff will be brought up
 * robots.txt
 * HTTP status code of pages
 * https://
@@ -956,7 +968,8 @@ So, today, we're going to go through some ways we can improve our mutual happine
 
 ### 4. we (generally speaking) love learning!
 
-* let's learning together
+* let's learning together!
+* don't be afraid to ask questions or tell us where you're coming from
 
 <br />
 <br />
@@ -974,8 +987,8 @@ So, today, we're going to go through some ways we can improve our mutual happine
 
 ### 5. ultimately we want to:
 
-* have each page be the best on the internet... (best UX, content, etc.)
-* have our site make sense to google (technical SEO) 
+* have each page be the best on the internet... (best UX, content, imagery, ambience, vibe, etc.)
+* have our site make sense to search engines (particular bots = technical SEO) 
 
 <br />
 <br />
@@ -993,7 +1006,8 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 
-# Now let's get into the panel! :man_technologist: :woman_technologist: ヘ(◕。◕ヘ) 
+# Now let's get into the panel! :man_technologist: :woman_technologist: 
+# ヘ(◕。◕ヘ) 
 
 <br />
 <br />
