@@ -1104,7 +1104,7 @@ yay... panelling! (not the house kind, the talking kind! ya know what i mean... 
 
 ## So, what do you want to know?
 
-## We're giving free advice here. And our cheapest hourly rate is $200/hour, so use us while we're $0!!!
+## We're giving free advice here! We're expensive, so use us while we're $0!!!
 
 <br />
 <br />
