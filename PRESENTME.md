@@ -968,7 +968,7 @@ So, today, we're going to go through some ways we can improve our mutual happine
 
 ### 4. we (generally speaking) love learning!
 
-* let's learning together!
+* let's learn together!
 * don't be afraid to ask questions or tell us where you're coming from
 
 <br />
