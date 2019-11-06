@@ -883,12 +883,12 @@ So, today, we're going to go through some ways we can improve our mutual happine
 
 ### 2. in the past SEO and SEs used to not like each other (if you've read an IR textbook, you'll probably find a chapter on us). In today’s world, we work together to bother developers, into doing things like:
 
-* importing site speed
+* improving site speed
 * going secure
 * implementing structured data (mostly semantic HTML and Schema.org)
 * making content renderable and accessible to bots
 * some accessibility requests (ARIA, heading tags, alt-text, and such)
-* (asking for the sites log files to find out whether or not googlebot is crawling appropriate)
+* (asking for the sites log files to find out whether or not googlebot is crawling appropriately)
 
 **Chapter from university IR textbook:**
 
