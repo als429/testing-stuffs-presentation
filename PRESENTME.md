@@ -240,9 +240,9 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 
-### 1. Add these into unit testing:
+### 1. Add these into unit testing (assert the tag values are what they should be):
 
-- [ ] link tags with canonical attributes (assert values they should be, we'll give a list!)
+- [ ] link tags with canonical attributes (SEOs can provide what values canonical tags should be)
 - [ ] meta robots tags (99.99% (repeating of course) should NOT have `noindex`)
 - [ ] any Schema your site has (assert that it's there and what it should be)
 - [ ] h1 tag 
