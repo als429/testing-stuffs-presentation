@@ -199,7 +199,7 @@ So, today, we're going to go through some ways we can improve our mutual happine
                
 # Things we want you to know about us, SEOs
 
-### 1. we come from a ton of different backgrounds (business, development, music, writing, etc...)
+### 1. we come from a ton of different backgrounds (business, CS, music (we have both players, producers), writing, veterinarians, etc...)
 
 * this means we *could potentially* be really hard to communicate w/, since you don't know what you're getting
 * we probably know a lot about completely random things from black-box testing the crud out of the website, 
