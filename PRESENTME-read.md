@@ -134,9 +134,18 @@ So, today, we're going to go through some ways we can improve our mutual happine
 
 `break; // from crazy loop`
 
-### 10. we care a lot about internal linking (think: main nav, footer, internal link) and the anchor text
+### 10. we care a lot about internal linking 
 
-* so, we're definitely going to talk about it
+- [ ] main navigation
+- [ ] footers
+- [ ] contextual links
+- [ ] "related" links
+- [ ] anchor text (we'll be looking for relevant, highly search terms)
+- [ ] (maybbbbeee additional `rel=""` attributes to `<a>` tags (like `nofollow`, `sponsored`, and `ugc`)
+
+* *Note: `<a>` tags is how all internal links are connected, don't get fancy on us.*
+* *Side note: if you're a fan of graph theory; ultimately we want a connected, directed graph (where all vertexes (i.e., pages), have an edge (i.e., links) with edges that make sense.*
+	* In a way, it's almost like building roads! We need roads to get people from city to city, but roads should make sense.
 
 ### 11. we care a lot about duplication duplication duplication
 
@@ -252,9 +261,13 @@ So, today, we're going to go through some ways we can improve our mutual happine
 * let's learn together!
 * don't be afraid to ask questions or tell us where you're coming from
 
+
 ### 5. ultimately we want to:
 
 * have each page be the best on the internet... (best UX, content, imagery, ambience, vibe, etc.)
 * have our site make sense to search engines (particular bots = technical SEO) 
-
+	* building a website with good technical SEO is following web standards 
+	* standards are the requirements search engines build their systems against
+		* build a site that follows web standards = an easily interpretable site
+		* build a site that goes rogue = a more challenging to interpret site (maybe a corner or edge case)
 **a semi-official percentage (may or may not reflect real life)*
