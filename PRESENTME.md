@@ -627,9 +627,18 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 
-### 10. we care a lot about internal linking (think: main nav, footer, internal link) and the anchor text
+### 10. we care a lot about internal linking 
 
-* so, we're definitely going to talk about it
+- [ ] main navigation
+- [ ] footers
+- [ ] contextual links
+- [ ] "related" links
+- [ ] anchor text (we'll be looking for relevant, highly search terms)
+- [ ] (maybbbbeee additional `rel=""` attributes to `<a>` tags (like `nofollow`, `sponsored`, and `ugc`)
+
+* *Note: `<a>` tags is how all internal links are connected, don't get fancy on us.*
+* *Side note: if you're a fan of graph theory; ultimately we want a connected, directed graph (where all vertexes (i.e., pages), have an edge (i.e., links) with edges that make sense.*
+	* In a way, it's almost like building roads! We need roads to get people from city to city, but roads should make sense.
 
 <br />
 <br />
@@ -853,7 +862,7 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 
 
-### 1. we come from a ton of different backgrounds (business, development, music, writing, etc...)
+### 1. we come from a ton of different backgrounds (business, CS, music (we have both players, producers), writing, veterinarians, etc...)
 
 * this means we *could potentially* be really hard to communicate w/, since you don't know what you're getting
 * we probably know a lot about completely random things from black-box testing the crud out of the website, 
@@ -989,7 +998,10 @@ So, today, we're going to go through some ways we can improve our mutual happine
 
 * have each page be the best on the internet... (best UX, content, imagery, ambience, vibe, etc.)
 * have our site make sense to search engines (particular bots = technical SEO) 
-
+	* building a website with good technical SEO is following web standards 
+	* standards are the requirements search engines build their systems against
+		* build a site that follows web standards = an easily interpretable site
+		* build a site that goes rogue = a more challenging to interpret site (maybe a corner or edge case)
 <br />
 <br />
 <br />
@@ -1104,7 +1116,9 @@ yay... panelling! (not the house kind, the talking kind! ya know what i mean... 
 
 ## So, what do you want to know?
 
-## We're giving free advice here! We're expensive, so use us while we're $0!!!
+### We're giving free advice here!
+
+### We may also take some benign personal questions!
 
 <br />
 <br />
